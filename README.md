@@ -26,7 +26,7 @@ a gray locked button to a green play button.
 - Playable in the editor
 
 Gameplay:
-The goal in Row Match is to create the maximum number of rows that have the same type of game
+- The goal in Row Match is to create the maximum number of rows that have the same type of game
 items with limited moves.
 
 Mechanics:
@@ -46,7 +46,7 @@ without requiring the user to finish the remaining moves.
 
 
 Levels:
-Row Match can be playable online or offline. The first 10 levels should be included in the project to
+- Row Match can be playable online or offline. The first 10 levels should be included in the project to
 make them available to users for initial launch even without internet connection. As soon as
 possible, rest of the levels should be downloaded once from the given URLs and should be saved
 to persistent storage to be available for later launches.
