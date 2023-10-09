@@ -1,6 +1,8 @@
 # Candy-Crush-Clone
 Row Match Game w/ level unlocking and online downloads
 
+!! Most of the code is here https://github.com/dbatu00/Candy-Crush-Clone/blob/main/Assets/Scripts/ !!
+
 A simple, level-based, mobile game called “Row Match”.
 Implementation done in Unity and C#.
 
