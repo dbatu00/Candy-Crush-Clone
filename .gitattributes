@@ -1,1 +1,2 @@
 *.cs linguist-language=C#
+.ASP.NET linguist-detectable=false
